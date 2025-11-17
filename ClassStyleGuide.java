@@ -55,8 +55,6 @@ public class ClassStyleGuide { // classes use UpperCamelCase
     }
 
     public enum EVENT { // enums use SCREAMING_SNAKE_CASE
-        SAMMAMISH,
-        AUBURN,
         DISTRICT_CHAMPS,
         FIRST_CMP,
         INDIANA_ROBOTICS_INVITATIONAL,
